@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I'm using Jekyll
-feature-img: "img/jekyll-logo.png"
+feature-img: "/img/jekyll-logo.png"
 ---
 
 Here are my thoughts on Jekyll and why I'm using it to develop this site.
