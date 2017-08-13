@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocJams
+title: Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a simple player to listen to your favourite music online.
+short-description: Jams is a simple player to listen to your favourite music online.
 
 ---
 
@@ -11,7 +11,7 @@ short-description: Bloc Jams is a simple player to listen to your favourite musi
 
 ## Explanation
 
-Bloc Jams is a web based music player. It's mobile responsive and built with Angular.js.
+Jams is a web based music player. It's mobile responsive and built with Angular.js.
 
 ## Problem
 
@@ -19,7 +19,7 @@ Music Players nowadays are full of extra features and typically require subscrip
 
 ## Solution
 
-Bloc Jams is mobile responsive and accessible from any browser. The design is beautiful and minimal while the functionality is kept to a minimum.
+Jams is mobile responsive and accessible from any browser. The design is beautiful and minimal while the functionality is kept to a minimum.
 The advantage of using Angular.js is having a "single page app" with fast page load and solid architecture despite having three sections with different functionalities.
 
 this is an example of the code I used to set up a router that would switch between the different views:
